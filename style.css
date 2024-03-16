@@ -1,0 +1,154 @@
+body{
+    margin:0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.header{
+    width: 100%;
+    height: 55px;
+}
+.left-icon{
+    width: 25%;
+    height: auto;
+    padding: 15px;
+    padding-left: 30px;
+    float: left;
+}
+.y-tube-icon{
+    width: 23%;
+    height: auto;
+    float: left;
+    padding-left: 20px;
+}
+.menu{
+    float: left;
+}
+.m-ico{
+    width: 25px;
+    height: 3px;
+    background: black;
+    margin: 4px 0;
+}
+.middle-search{
+    float: left;
+    width: 55%;
+    height: auto;
+    padding: 8px;
+}
+.search-box{
+    width: 60%;
+    height: 30px;
+    border: 2px rgb(196, 196, 196) solid;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 3px;
+    padding-left: 20px;
+    font-size: 16px;
+    margin-right: 0px;
+}
+.search-btn{
+    width: 10%;
+    height: auto;
+    padding: 10px;
+    padding-top: 11px;
+    margin-left: -7px;
+    color: #6c8591;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px rgb(196, 196, 196) solid;
+}
+.right-icons{
+    width: 14%;
+    height: auto;
+    padding: 13px;
+    padding-left: 30px;
+    float: left;
+}
+.ico-vid{
+    width: 25px;
+    float: left;
+}
+.ico-trend{
+    width: 20px;
+    float: left;
+}
+.ico-bento{
+    padding-left: 11%;
+    width: 25px;
+    float: left;
+}.ico-noti{
+    padding-left: 11%;
+    width: 25px;
+    float: left;
+}
+.profile{
+    margin-left: 11%;
+    width: 30px;
+    float: left;
+    border-radius: 50%;
+}
+.main-body{
+    width: 100%;
+    margin-top: -20px;
+}
+.left{
+    padding-top: 30px;
+    width: 17%;
+    height: 100%;
+    float: left;
+}
+.left-btns{
+    width: 100%;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: left;
+    padding-left: 30px;
+    border: 0px;
+    background: #fff;
+}
+.left-btns:hover{
+    background: #949494;
+}
+.fa-house{
+    float: left;
+}
+.btn-title{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-left: 50px;
+    float: left;
+}
+.line{
+    width: 2px;
+    height: 59.3em;
+    background: rgb(241, 240, 240);
+    float: left;
+}
+.right{
+    width: 82.89%;
+    height: 100%;
+    background: rgb(241, 240, 240);
+    float: left;
+}
+.line-horizontal{
+    width: 100%;
+    height: 0.1em;
+    background: rgb(241, 240, 240);
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.rec{
+    padding-left: 30px;
+}
+.vid-pro{
+    margin: 15px;
+    margin-left: 0px;
+}
+.vid-1{
+    padding: 30px;
+    padding-top: 0px;
+    float: left;
+}
